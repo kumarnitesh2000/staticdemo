@@ -1,0 +1,2 @@
+# staticWeb
+static websites
